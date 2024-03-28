@@ -2,7 +2,7 @@ public class Test {
 
  Test(int x) 
     { 
-        System.out.println("ONE argument constructor"); 
+        System.out.println("ONE argument"); 
     } 
   
     Test() 
